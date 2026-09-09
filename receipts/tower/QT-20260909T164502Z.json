@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260909T164502Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/cisvr-degrade-mailman-20260909T154841-qlv.json"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/cisvr-draft-beat37-20260909T1608Z-qlv.json"
+  }
+ ],
+ "verdict_memo": "① 件一：cisvr-mailman 降级告警，lane 投递运力失稳；件二：beat37 律吕草案呈报，待主线合入。  \n② mailman 为 38 件积压泄洪之邮路，beat37 为第七线节律之节；"
+}
