@@ -1,0 +1,12 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260909T172203Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/OTP-SEAT-ASK-01-qlv.md"
+  }
+ ],
+ "verdict_memo": "(模板判词·LLM空回) 候件1件: vci-inbox:lanes/qlv/inbox/OTP-SEAT-ASK-01-qlv.md"
+}
