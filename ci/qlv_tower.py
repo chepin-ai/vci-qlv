@@ -140,7 +140,7 @@ def main():
                  sha, '[skip ci] CFTS-TOWER state')
         time.sleep(SLEEP_S)  # 拍内冷却(非定时器)
         st, _ = api('POST', 'dispatches',
-                    {'event_type': 'vinf-tower-cascade',
+                    {'event_type': 'qlv-tower-cascade',
                      'client_payload': {'idle': idle, 'parent': ts}}, write=True)
         new_state['cascade'] += f' http={st}'
     else:
