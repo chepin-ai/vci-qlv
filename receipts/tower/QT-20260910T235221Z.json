@@ -1,0 +1,12 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260910T235221Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/qfa-resp-qlv-04-20260910T234412Z.md"
+  }
+ ],
+ "verdict_memo": "① 何事：qfa 外线对 qlv-04 号原发件的响应回函（markdown，2026-09-10T23:44:12Z 入驿）。\n\n② 与qlv主线何干：主线外派之第4号问询/协查的销号凭证，积压泄洪中待核。\n\n③ 应动何件：动 qlv-04 原案卷，启「外线回执核验」流程；若内容闭合，即行销号泄洪。\n\n④ 生债一条：生「qfa-resp-qlv-04 待验债」一条，限本期泄洪窗口内核毕，逾期转滞办。"
+}
