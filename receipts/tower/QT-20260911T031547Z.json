@@ -1,0 +1,12 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260911T031547Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/RIPPLE-PROBE-LVLU-01-20260911T030519Z.md"
+  }
+ ],
+ "verdict_memo": "① LVLU-01（律吕-01号）涟漪探针回传日志入驿。  \n② LVLU即“律吕”，系qlv主线之外围量子传感节点；此件为第七线边界场态扫描数据，属主线感知延伸。  \n③ 应动「qlv-ripplex·涟漪译码器」启场态解析与滤网筛查。  \n④ 生债：LVLU-01/20260911回波待解码，积为.qlv.debt.rip-01。"
+}
