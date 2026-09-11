@@ -1,0 +1,24 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260911T001408Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260911T000316Z-439a5458f72f.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260911T000449Z-f9f9d4655150.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/PARETO-R1-8389c7f61028.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/PARETO-R1-a7436295c9f9.md"
+  }
+ ],
+ "verdict_memo": "(模板判词·LLM空回) 候件4件: vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260911T000316Z-439a5458f72f.md; vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260911T000449Z-f9f9d4655150.md; vci-inbox:lanes/qlv/inbox/PARETO-R1-8389c7f61028.md; vci-inbox:lanes/qlv/inbox/PARETO-R1-a7436295c9f9.md"
+}
