@@ -1,0 +1,56 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260911T155636Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "OTP-VINF-LOOP-QLV-01-vinf.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:ucif2-DRIVE-PUSH-03-target-spectrum-weights.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-FLOOR-SHA-SRC-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-QLV-COSIGN-FETCH-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-QLV-SPECTRA-01-R2.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-QLV-SPECTRA-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-DIRECT-54-QLV-20260911T0705Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-DIRECT-54-QLV-R2-20260911T0730Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/O-S-2D-01-v0-20260911T123052Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/QGL-ASK-AGG-104.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/RESP-LVLU-QLV-03-20260911T092950Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/TASK-USRM-QLV-SHA-ANCHOR-02.json"
+  }
+ ],
+ "verdict_memo": "(模板判词·LLM空回) 候件12件: OTP-VINF-LOOP-QLV-01-vinf.md; qlv:ucif2-DRIVE-PUSH-03-target-spectrum-weights.md; vci-inbox:lanes/qlv/inbox/ANS-FLOOR-SHA-SRC-01.md; vci-inbox:lanes/qlv/inbox/ANS-QLV-COSIGN-FETCH-01.md; vci-inbox:lanes/qlv/inbox/ANS-QLV-SPECTRA-01-R2.md; vci-inbox:lanes/qlv/inbox/ANS-QLV-SPECTRA-01.md"
+}
