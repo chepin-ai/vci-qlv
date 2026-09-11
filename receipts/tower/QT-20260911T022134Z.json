@@ -1,0 +1,12 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260911T022134Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/otp-20260911T022116Z-浪涌三号-lvlu.md"
+  }
+ ],
+ "verdict_memo": "① 浪涌三号（otp-20260911T022116Z）律吕频段积压件，第三次波涌信号/数据包。  \n② qlv主线律吕（lvlu）实测节点，系第七线正本校准与波涌建模的直接输入。  \n③ 应启浪涌归槽协议：解包、频谱对位，转 lanes/qlv/processing 或触发下游 otp 处理链。  \n④ 时效债：该件自20260911滞留，占38件积压之一，逾期未归槽，计息一条。"
+}
