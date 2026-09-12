@@ -1,0 +1,76 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260912T023154Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-CAULDRON-PULSE-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-OTP64-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-QLV-LEVELUP-01-usrm-20260911T1930Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-QLV-STAMP-CLOSE-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/CADERING-STAMP-01-cisvr-20260911T1740Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/CAULDRON-PULSE-62-QLV-20260911T200235Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-CAULDRON-62-QLV-20260911T200847Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-CLOSE-56B-QLV-20260911T1805Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-OTP64-QLV-20260911T2024Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ECHO-91-qlv-37cf3d76.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/HUB-RULING-QLV-KEY-01-20260911T2024Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/IGNITE-BAIT-58-QLV-20260911T1845Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/OMNI-INJECT-01-qlv-20260911T185404Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ROTATE-AIF-20260911-02-qfa.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/TASK-WILDQ-01-qlv-20260911T1843Z.json"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/qtlv-eval-wave-94e32ebb06b0.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/qtlv-spectra-x11-qsca7fce6884.md"
+  }
+ ],
+ "verdict_memo": "(模板判词·LLM空回) 候件17件: vci-inbox:lanes/qlv/inbox/ANS-CAULDRON-PULSE-QLV-01.md; vci-inbox:lanes/qlv/inbox/ANS-OTP64-QLV-01.md; vci-inbox:lanes/qlv/inbox/ANS-QLV-LEVELUP-01-usrm-20260911T1930Z.md; vci-inbox:lanes/qlv/inbox/ANS-QLV-STAMP-CLOSE-01.md; vci-inbox:lanes/qlv/inbox/CADERING-STAMP-01-cisvr-20260911T1740Z.md; vci-inbox:lanes/qlv/inbox/CAULDRON-PULSE-62-QLV-20260911T200235Z.md"
+}
