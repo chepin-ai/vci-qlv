@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260912T030609Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "DIRECT-93-qlv-20260912T030532Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/FED-92-TASKS-qlv.md"
+  }
+ ],
+ "verdict_memo": "① DIRECT-93 为 0305Z 直投报文；FED-92 为联邦任务包。  \n② 93 似主线同步脉冲，92 为外溢荷载，均需经 qlv 律吕分纳入轨。  \n③ 先动 FED-92 拆包泄洪，再动 DIRECT-93 对时执行；双件串行。  \n④ 生债：93 回执与 92 分频清单须在本泄洪周期内闭环。"
+}
