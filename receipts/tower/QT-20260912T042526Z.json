@@ -1,0 +1,20 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260912T042526Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "DEMAND-FED-92-ACK-qlv-20260912T034751Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "GUIDE-PACK-QFA-01.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "TASK-ECHO-91-qlv-20260912T034751Z.md"
+  }
+ ],
+ "verdict_memo": "① 联邦92号需求确认回执、QFA操作指南包首版、91号任务回执。  \n② 均属38件积压泄洪批次；ACK对外收口契约，ECHO对内闭合任务，"
+}
