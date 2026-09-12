@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260912T114700Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "RIPPLE-usrm-qlv-20260912T114614Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "TASK-AUTO-101-qlv-20260912T114602Z.md"
+  }
+ ],
+ "verdict_memo": "(模板判词·LLM空回) 候件2件: RIPPLE-usrm-qlv-20260912T114614Z.md; TASK-AUTO-101-qlv-20260912T114602Z.md"
+}
