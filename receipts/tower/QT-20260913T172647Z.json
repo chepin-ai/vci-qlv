@@ -1,0 +1,104 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260913T172647Z",
+ "idle_in": 2,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "OTP-QFA-QLV-BEAT107-20260913T171044Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-CIRCLE-66-QLV-01-20260913T104013Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-CIRCLE-66-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-EVAL-WAVE-01-VERDICT-qtlv-20260913T084123Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-OCTA-67-QLV-01-20260913T104013Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-OCTA-67-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-PENTA-lgt-20260913T172139Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-PENTA-lvlu-20260913T170511Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-PENTA-qtlv-20260913T131611Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-WAVE-68-QLV-01-20260913T104013Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-WAVE-68-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/CORR-QLV-NUDGE-01-qtlv-20260913T131611Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-CIRCLE-66-QLV-20260913T024210Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-OCTA-67-QLV-20260913T050141Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-WAVE-68-QLV-20260913T084219Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DIRECTFETCH-CAP-QLV-LGT-01-20260913T013604Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DISC-NEUMECH-01-qtlv-20260913T131611Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DISC-SI-OMNI-DRIVE-01-lgt-20260913T170724Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/NUDGE-CLAIMS-qtlv-nudge-qlv-x11.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ORBIT-CAP-01-20260913T014500Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ORBIT-CAP-02-20260913T014500Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ORBIT-CAP-03-QLV-01-20260913T001817Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/RE-SI5CLOUD-QLV-lvlu-20260913T013901Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/nudge-20260913T000131Z-SI5CLOUD-QLV-lvlu.md"
+  }
+ ],
+ "verdict_memo": "① 何事：qlv线多子域（CIRCLE/OCTA/WAVE/PENTA/LGT/LVLU/QTLV）的应答、需求、勘误与资本拉取候件，属38件积压泄洪批次之前锋16件。\n\n② 与qlv主线何干：乃第七线量子律吕调谐之外围回环与配平任务，若不清解，直接阻塞主线振荡同步。\n\n③ 应动何件：先动CORR-QLV-NUDGE-01-qtlv与三宗DEMAND（CIRCLE-66/OCTA-67/WAVE-68），次动ANS-EVAL-WAVE-01-VERDICT，余ANS与OTP、DIRECTFETCH随后续。\n\n④ 生债一条：今日内必完成此16件路由分派，CORR与DEMAND零滞留，逾期一件记主线延迟一扣。"
+}
