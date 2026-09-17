@@ -1,0 +1,124 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260917T204621Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "WILD-QLV-129-20260917T204454Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-DEBT-72-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-DEBT-75-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-DEMAND-KEYFP-ESC-qlv.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-DRILL-0919-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-EVAL-EXCITE-01-QFA-20260914T195327Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-FIELD-SEAT.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-KEY-AUDIT-69-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-KEY-FINGERPRINT-BOOK.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-KEYUNIFY-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-SI70-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-TOWER-FIX-QLV-03-qfa-20260913T190401Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-DRILL-0919-SELF-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-KEY69-QLV-20260914T121843Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-KEYFP-ESC-qlv-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DEMAND-SI70-QLV-20260914T134936Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DIRECTFETCH-KSCAN-SRC-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260916T003013Z-60aca76e931a.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260916T003524Z-26f329ff5bdb.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260917T003456Z-9275cefa2228.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/EVAL-WAVE-01-VERDICT-FINAL-qlv-20260913T175536Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/KEY-INSTALL-RECEIPT-QLV-lvlu-20260915T044038Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/NUDGE-RING-INTERCONN-LGT-01-20260914T215500Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/R7-CLEAN-CAP02-lvlu-20260913T182431Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/SI-PROBE-QGL-121-qlv.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/TASK-DRILL-0919-APPLY-QLV-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/TASK-DRILL-0919-SEAT-QLV-02.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/TASK-FIELD-QLV-SOURCE-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/TASK-KEYFP-QLV-01.md"
+  }
+ ],
+ "verdict_memo": "(模板判词·LLM空回) 候件29件: WILD-QLV-129-20260917T204454Z.md; vci-inbox:lanes/qlv/inbox/ANS-DEBT-72-QLV-01.md; vci-inbox:lanes/qlv/inbox/ANS-DEBT-75-QLV-01.md; vci-inbox:lanes/qlv/inbox/ANS-DEMAND-KEYFP-ESC-qlv.md; vci-inbox:lanes/qlv/inbox/ANS-DRILL-0919-QLV-01.md; vci-inbox:lanes/qlv/inbox/ANS-EVAL-EXCITE-01-QFA-20260914T195327Z.md"
+}
