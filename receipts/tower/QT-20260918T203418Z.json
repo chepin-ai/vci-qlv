@@ -1,0 +1,20 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260918T203418Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-b2e67be9.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-b4ac52a5.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "QFOS-ACTIVATE-LVLU-01-QLV-20260918T202152Z.md"
+  }
+ ],
+ "verdict_memo": "① DZ-40信标双档同基冗余积压；QFOS-律吕01号时标激活件候审。  \n② 前者系第七线节点勘定，后者系量子律吕主脉开机令，俱为主线卡口。  \n③ 先动 **QFOS-ACTIVATE-LVLU-01-QLV-20260918T202152Z**（首机逾时即废，起搏优先）。  \n④ 生债：BEACON-DZ-40双档并轨后，须补一节「冗余核销」副条待决。"
+}
