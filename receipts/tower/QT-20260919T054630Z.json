@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260919T054630Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-8af60e93.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260919T000125Z-ac17c5993ad6.md"
+  }
+ ],
+ "verdict_memo": "① **何事**  \n- 一静：BEACON-DZ-40，qlv 线第 40 号信标/断章缓存（静态锚点）。  \n- 一动：DRIVE-qlv-20260919T000125Z，qlv 车道带 UTC 时标之驱动/行车指令（动态入站）。  \n\n② **与 qlv 主线何干**  \n- BEACON 为主线空间-相位锚，用于标定第七线·量子律吕之静态节点。  \n- DRIVE 为主线时间-运营驱控，直接介入行车/进程之时序调度。  \n\n③ **应动何件**  \n"
+}
