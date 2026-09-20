@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260920T170346Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-e5e6f20d.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/FRAC-01-QUERY-qfa-20260920T144316Z.md"
+  }
+ ],
+ "verdict_memo": "① **何事**  \n- `BEACON-DZ-40`：qlv 线第 40 号信标定址件，空间锚点。  \n- `FRAC-01-QUERY`：VCI 车道碎询件，qfa 协议边界之问。  \n\n② **与 qlv 主线何干**  \n- 信标乃律吕空间之锚，直接系主线坐标。  \n- 碎询为支脉转接，悬于车道，未入主线本体。  \n\n③ **应动何件**  \n- 先动 **`BEACON-DZ-40`**。泄洪期节点易漂，锚桩一固，后续 37 件方有着落。  \n\n④ **生债一条**  \n- `FRAC-01` 延答，生**滞复之债**；须限下汐前补回 qfa 查询，免成堰塞。"
+}
