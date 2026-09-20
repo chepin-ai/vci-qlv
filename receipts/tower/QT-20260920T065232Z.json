@@ -1,0 +1,36 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260920T065232Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-52a3b3c2.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-545cb831.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-d78bd17e.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-fad1d735.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "OTP-DIRECT-47-qlv-20260920T062919Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "TASK-ECHO-91-GLOBAL-ACT-QLV-132.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260920T003827Z-0c950ba7ff9e.md"
+  }
+ ],
+ "verdict_memo": "① 何事：七件候件积压，含 **BEACON-DZ-40 信标四件**、**OTP-DIRECT-47 直令一件**、**TASK-ECHO-91 全局行动一件**、**DRIVE 车道驱动一件**。  \n\n"
+}
