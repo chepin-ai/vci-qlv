@@ -1,0 +1,25 @@
+{
+ "v": "LINE-DRIVE-01",
+ "ts": "2026-09-26T09:13:13Z",
+ "line": "qlv",
+ "repos": [
+  "qlv",
+  "qlv-lab",
+  "chepin-qi/qlv-ci-line",
+  "chepin-qi/qlv-lib",
+  "chepin-qi/qlv-pub"
+ ],
+ "events": [
+  {
+   "kind": "repo-unreadable",
+   "repo": "qlv",
+   "http": 403
+  },
+  {
+   "kind": "repo-unreadable",
+   "repo": "qlv-lab",
+   "http": 403
+  }
+ ],
+ "acked": []
+}
