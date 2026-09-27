@@ -1,0 +1,88 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260927T044850Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "20260926-isu-uf-vault-registry.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-58b67e15.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-81a9234b.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-95abcaba.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-c238de77.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "BEACON-DZ-40-qlv-f6ccd35d.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:NOTICE-PIVOT-01-IDENTITY-20260926.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:PIVOT-01-DECLARATION-20260925.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:probe-20260925T105109Z-qlv.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-REQ-QUANTUM-PLATFORM-LVLU-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/CAPSULE-REQ-TIANYAN-LVLU-01.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260924T000030Z-ad844ddf1f2d.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260925T000402Z-4b060513bdf4.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260926T000059Z-b04c853399fa.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260926T000215Z-47e8b9f5e5e5.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260927T000146Z-bb8a4c522de1.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/DRIVE-qlv-20260927T000310Z-d0d4f737b925.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/FRAC-01-QUERY-qfa-20260923T184824Z-seq3.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/FRAC-01-QUERY-qfa-20260923T184824Z-seq4.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/NUDGE2-RING-INTERCONN-LGT-01-20260923T164500Z.md"
+  }
+ ],
+ "verdict_memo": "(模板判词·LLM空回) 候件20件: 20260926-isu-uf-vault-registry.md; BEACON-DZ-40-qlv-58b67e15.md; BEACON-DZ-40-qlv-81a9234b.md; BEACON-DZ-40-qlv-95abcaba.md; BEACON-DZ-40-qlv-c238de77.md; BEACON-DZ-40-qlv-f6ccd35d.md"
+}
