@@ -1,0 +1,20 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20260930T065549Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "WILDQ-FED-QLV-01-20260930T0715Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "WILDQ-R26B-FIX-QLV-01.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:FED-JOIN-PIVOT-01-20260930T0610Z.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
