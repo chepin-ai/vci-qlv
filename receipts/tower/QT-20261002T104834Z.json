@@ -1,0 +1,36 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261002T104834Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20260930T182523Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261001T013218Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261001T074617Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261001T152459Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "WILDQ-BOOTLOOPS-QLV-01-20261001T0000Z.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:20260930-cdnv-qlv-hello.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:MIRROR-REQ-QI-01-20260930T0850Z.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
