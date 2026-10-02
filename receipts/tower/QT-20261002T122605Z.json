@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261002T122605Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261002T112014Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "WILDQ-SAT-QLV-01.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
