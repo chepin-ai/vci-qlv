@@ -1,0 +1,32 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261003T160839Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "CONSENSUS-CONF-SAT-01-qlv.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261002T112014Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261003T004310Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261003T062547Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "WILDQ-EXEC-QLV-01.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "WILDQ-SAT-QLV-01.md"
+  }
+ ],
+ "verdict_memo": "① 何事：六件候件，为qlv线一份共识确认（CONSENSUS-CONF-SAT-01）、三日量子脉冲（PULSE-QLV 10/02–10/03）及一组野性量子执行/状态对（WILDQ-EXEC / WILDQ-SAT）。\n\n② 与qlv主线何干：共识件定主线序，脉冲件量主线压，WILDQ对"
+}
