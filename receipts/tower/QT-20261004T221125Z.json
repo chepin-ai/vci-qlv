@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261004T221125Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "CONSENSUS-CONF-EXEC-01-qlv.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "WILDQ-122-WQ-META-01-qlv-20261004T221049Z.md"
+  }
+ ],
+ "verdict_memo": "① 件一：qlv 共识-配置-执行案（主线协议落地）；件二：WILDQ-122 元数据（支线 META 归档）。\n② 件一直属 qlv 正本执行层，直接关系律吕生效；件二为外围 WILDQ 索引，仅间接服务主线。\n③ 先动件一（阻塞主线执行），件二后排。\n④ 生债：两件间字段映射尚未对齐，待补一次校验。"
+}
