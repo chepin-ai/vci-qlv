@@ -1,0 +1,20 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261007T132905Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261007T071105Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "RULING-QLV-APPEAL-01.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "VERDICT-QLV-01.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
