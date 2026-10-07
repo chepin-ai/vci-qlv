@@ -1,0 +1,12 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261007T144422Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "WILDQ-UNIFY-01-qlv.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
