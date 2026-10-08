@@ -1,0 +1,28 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261008T060211Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "LABJUDGE-E01-qlv.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "LABJUDGE-E02-qlv.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "LABJUDGE-E03-qlv.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261007T200756Z.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261008T060201Z.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
