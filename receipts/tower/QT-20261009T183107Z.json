@@ -1,0 +1,12 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261009T183107Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "LABJUDGE-EXT01-qlv.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
