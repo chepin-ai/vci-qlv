@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261009T092740Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "LABJUDGE-T03S-qlv.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/ANS-SISIGN22715-SIALIGN22717-qfa-20261009T091446Z.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
