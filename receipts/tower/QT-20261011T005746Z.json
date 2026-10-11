@@ -1,0 +1,24 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261011T005746Z",
+ "idle_in": 0,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "LABJUDGE-EXT07-qlv.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "LABJUDGE-EXT07B-qlv.md"
+  },
+  {
+   "kind": "inbox",
+   "ref": "VERIFY-V11-CALL-01-qlv.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/NOTICE-NORTHSTAR-QFA-02-qfa-20261010T200627Z.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
