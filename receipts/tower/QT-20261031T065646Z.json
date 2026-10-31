@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261031T065646Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "PULSE-QLV-20261031T065636Z.md"
+  },
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/NOTICE-MBCLOUD-LVLU-01-20261031T0118Z.md"
+  }
+ ],
+ "verdict_memo": "① **PULSE-QLV**：今晨06:56Z主线自检脉冲；**NOTICE-MBCLOUD-LVLU-01**：MBCloud发来律吕层级同步通知。  \n② 脉冲是第七线命络，保基频；NOTICE是外部云对律吕的写入请求，若不应答将生谐波干涉。  \n③ **先动NOTICE-MBCLOUD-LVLU-01**。写入型外件优先于只读脉检，防层级漂移。  \n"
+}
