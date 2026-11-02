@@ -1,12 +1,11 @@
 {
  "id": "KEY-SENTINEL-LINE-01",
  "repo": "chepin-ai/vci-qlv",
- "ts": "20261102T193857Z",
+ "ts": "20261102T193934Z",
  "clock": "VOID",
  "keys": {
   "AI_FULL_PAT": {
-   "http": 200,
-   "login": "chepin-ai"
+   "err": "Remote end closed connection without response"
   },
   "CI_OPS_LINE_KEY": {
    "http": 200,
@@ -17,7 +16,6 @@
   }
  },
  "alive": [
-  "AI_FULL_PAT",
   "CI_OPS_LINE_KEY"
  ],
  "dead401": [],
