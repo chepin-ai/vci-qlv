@@ -1,0 +1,12 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261121T093143Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "lane-inbox",
+   "ref": "vci-inbox:lanes/qlv/inbox/OTP-NS-SAT-20261121-02B.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
