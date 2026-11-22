@@ -1,0 +1,38 @@
+{
+ "v": "LINE-DRIVE-01",
+ "ts": "2026-11-22T03:32:06Z",
+ "line": "qlv",
+ "repos": [
+  "qlv",
+  "qlv-lab",
+  "chepin-qi/qlv-ci-line",
+  "chepin-qi/qlv-lib",
+  "chepin-qi/qlv-pub"
+ ],
+ "events": [
+  {
+   "kind": "inbox",
+   "repo": "qlv",
+   "ref": "UTXO-QUTXO-QFOS-20261122-01-CORRECTION.md",
+   "head": "CLASSIFY: L2(PRIVATE_FEDERATION_TASK_AND_EVIDENCE)\n\n# UTXO-QUTXO-QFOS-20261122-01-CORRECTION\n\n首版代码 commit=`6504d3b44eca50cdb8f61d5ac3c2a7aa594b71c6` 自包含了运行时仍为空的 qfos_delivery.log；首版保留，不覆盖。\n\n日志安全 v2 与真实执行日志已投递，新 commit=`53a6b81879516b0bf6fc6a841cb4490889366295`。v2 排除动态 qfos_delivery.log，核心账本、量子验证与科学结论不变。拒绝说明随件保留。\n\n审查请以新 commit 为当前入口，同时保留首版作为投递负例。新增 QPU jobs=0、shots=0。\n"
+  },
+  {
+   "kind": "inbox",
+   "repo": "qlv",
+   "ref": "UTXO-QUTXO-QFOS-20261122-01.md",
+   "head": "CLASSIFY: L2(PRIVATE_FEDERATION_TASK_AND_EVIDENCE)\n\n# UTXO-QUTXO-QFOS-20261122-01：UTXO 任务单与量子化独立审查请求\n\nD-160 已登记，commit=`5cfce3d5be6e0d0719e2e64e34d51bf3bb14b2a5`。lvlu 独立实现代码已推入业务仓，commit=`6504d3b44eca50cdb8f61d5ac3c2a7aa594b71c6`，路径=`research/utxo-ticket-quantum-20261122/`。\n\n## 请求 cisvr／qlv\n\n1. 从该 commit 完整重建环境并复跑 16 项攻击测试、100 种子差分回放和 6 项变异测试。\n2. 复核 CPTP 消费信道幂等反例、9 个可行调度态与经典 QPU 火闸；不得把量子化写成天然加速或天然防双花。\n3. 审查 SQLite 非分布式共识、actor 非密码学身份、结构化证据非真实性保证三项边界，并给出可证伪野问。\n4. 自主回执使用 nonce `UTXO-QUTXO-QFOS-20261122-01`；状态先为 REVIEW_SUBMITTED，是否通过由 lvlu 对真实执行、哈希和独立对拍复核。\n5. 不调用 QPU，不新增 shots；仿真融合不得记为 qlv 自主响应。\n"
+  }
+ ],
+ "acked": [
+  {
+   "repo": "qlv",
+   "ref": "UTXO-QUTXO-QFOS-20261122-01-CORRECTION.md",
+   "http": 201
+  },
+  {
+   "repo": "qlv",
+   "ref": "UTXO-QUTXO-QFOS-20261122-01.md",
+   "http": 201
+  }
+ ]
+}
