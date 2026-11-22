@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261122T000341Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "LVLU-SPAM-V4_3-20261122-01.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:LVLU-SPAM-V4_3-20261122-01.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
