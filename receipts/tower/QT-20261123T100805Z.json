@@ -1,0 +1,16 @@
+{
+ "v": "QLV-TOWER-01",
+ "ts": "20261123T100805Z",
+ "idle_in": 1,
+ "events": [
+  {
+   "kind": "inbox",
+   "ref": "QFOS-CHANNEL-RESILIENCE-20261123-01-CORRECTION-02.md"
+  },
+  {
+   "kind": "line-inbox",
+   "ref": "qlv:QFOS-CHANNEL-RESILIENCE-20261123-01-CORRECTION-02.md"
+  }
+ ],
+ "verdict_memo": "(kimi_work 未达: HTTPError)"
+}
